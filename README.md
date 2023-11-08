@@ -21,6 +21,7 @@ Attributes are:
 13. thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
 The names and social security numbers of the patients were recently removed from the database, replaced with dummy values.
 
+(The dataset is taken from kaggle and can be found https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/)
 
 It is integer valued 0 = no disease and 1 = disease.
 
