@@ -1,5 +1,6 @@
 # Heart-disease-prediction-model
 Machine learning model using logistic regression for heart disease prediction
+<img width="474" alt="heart disease " src="https://github.com/Shreya-Lakhera/Heart-disease-prediction-model/assets/119331233/2a1d1a0a-4766-4dd8-b624-ba3f0d8469f5">
 
 This dataset provides information on the personal data and risks assessed for heart disease.
 This data set dates from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. 
