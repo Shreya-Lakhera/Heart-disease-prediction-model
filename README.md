@@ -19,6 +19,7 @@ Attributes are:
 11. the slope of the peak exercise ST segment
 12. number of major vessels (0-3) colored by flourosopy
 13. thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
+
 The names and social security numbers of the patients were recently removed from the database, replaced with dummy values.
 
 (The dataset is taken from kaggle and can be found https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/)
